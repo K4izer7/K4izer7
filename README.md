@@ -45,10 +45,9 @@ Programming enthusiast currently learning **Java, Python, and Web Development**.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=K4izer7&show_icons=true&theme=tokyonight&cache_seconds=86400)
+![Samrat's GitHub stats](https://github-readme-stats.vercel.app/api?username=K4izer7&show_icons=true&theme=tokyonight&v=1)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=K4izer7&layout=compact&theme=tokyonight&cache_seconds=86400)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=K4izer7&layout=compact&theme=tokyonight&v=1)
 
 ---
 
