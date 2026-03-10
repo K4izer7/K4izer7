@@ -1,8 +1,18 @@
 # Hi 👋 I'm Samrat
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=true&vCenter=true&width=500&lines=Programming+Enthusiast;Learning+Java+and+Python;Learning+Web+Development)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Programming+Enthusiast;Learning+Java+and+Python;Learning+Web+Development)
+
+![Profile Views](https://komarev.com/ghpvc/?username=K4izer7&label=Profile%20Views&color=0e75b6&style=flat)
 
 Programming enthusiast currently learning **Java, Python, and Web Development**.
+
+---
+
+## 👨‍💻 About Me
+
+- 🌱 Currently learning **Java, Python, HTML, CSS, JavaScript, and React**
+- 💻 Building small projects to improve my coding skills
+- 🚀 Interested in software development and problem solving
 
 ---
 
@@ -35,12 +45,18 @@ Programming enthusiast currently learning **Java, Python, and Web Development**.
 
 ## 📊 GitHub Stats
 
-![K4izer's GitHub stats](https://github-readme-stats.vercel.app/api?username=K4izer7&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=K4izer7&show_icons=true&theme=tokyonight&cache_seconds=86400)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=K4izer7&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=K4izer7&layout=compact&theme=tokyonight&cache_seconds=86400)
+
+---
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/K4izer7/K4izer7/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
 ## 📫 Connect
 
-- GitHub: https://github.com/K4izer7
+- GitHub: [github.com/K4izer7](https://github.com/K4izer7)
