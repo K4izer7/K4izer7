@@ -49,11 +49,6 @@ Programming enthusiast currently learning **Java, Python, and Web Development**.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=K4izer7&layout=compact&theme=tokyonight&cache_seconds=86400)
 
----
-
-## 🐍 Contribution Snake
-
-![Snake animation](https://github.com/K4izer7/K4izer7/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
